@@ -1,7 +1,8 @@
 # assignment
 ## Video Demo
 
-[![Video Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video Demo](https://drive.google.com/uc?export=download&id=VIDEO_ID_HERE)](https://drive.google.com/file/d/VIDEO_ID_HERE/view)
+
 
 
 ![image1](https://user-images.githubusercontent.com/105824474/235281333-590dc06e-0790-490e-b37a-17d48f63d749.png)
